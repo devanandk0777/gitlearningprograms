@@ -1,6 +1,6 @@
-num1 = 100
+num1 = int(input("enter num1"))
 
-num2 = 200
+num2 = int(input("enter num2"))
 
 addition_result = num1+ num2
 
